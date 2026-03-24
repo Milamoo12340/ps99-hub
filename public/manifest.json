@@ -1,0 +1,7 @@
+{
+  "short_name": "PS99 Hub",
+  "name": "PS99 Performance Hub",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#a855f7"
+}
