@@ -1,0 +1,1 @@
+// MultiInstanceLauncher page - copy from DownloadApp page
