@@ -1,0 +1,1 @@
+// ScriptHub page - copy from DownloadApp page
