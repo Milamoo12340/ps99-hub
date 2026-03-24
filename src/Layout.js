@@ -1,0 +1,1 @@
+// Layout component - copy from DownloadApp page
